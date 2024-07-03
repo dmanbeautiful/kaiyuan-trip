@@ -1,6 +1,6 @@
 <template>
     <div class="nav-bar">
-        <div class="title">刑具旅途</div>
+        <div class="title">开源旅途</div>
     </div>
 </template>
 
